@@ -1,2 +1,2 @@
 # SPGN
-The code will be made available after the publication of the article.
+The source code will be available after the publication of the article.
